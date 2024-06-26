@@ -12,5 +12,10 @@ Deaf and Mute(Dumb)(D&M) people make use of their hands to express different ges
 
 Gestures are the nonverbally exchanged messages and these gestures are understood with vision. This nonverbal communication of deaf and dumb people is called sign language.
 
-Sign language is a visual language and consists of 3 major components
-![Uploading image.png…]()
+Sign language is a visual language and consists of 3 major components.
+# Finferspelling - Used to spell words letter by letter.
+# Word Level Sign Vocabulary - Used for the majority of communication.
+# Non-manual features - Non-manual features.
+
+In this project I basically focus on producing a model which can recognize Fingerspelling based hand gestures in order to form a complete word by combining each gesture.
+
